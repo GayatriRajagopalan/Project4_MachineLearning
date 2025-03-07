@@ -118,8 +118,3 @@ else:
 # Footer
 st.markdown("---")
 st.markdown("📋 **Note:** This prediction is based on the data provided and is not a substitute for professional medical advice.")
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 53f49e4cf086f40aa9b8a8c0c79694c00f9a8acb
