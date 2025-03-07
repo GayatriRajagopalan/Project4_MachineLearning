@@ -26,10 +26,4 @@ SQLAlchemy==1.4.44
 streamlit==1.14.0
 xgboost==1.7.1
 gunicorn==20.1.0  # Only if deploying to Heroku
-<<<<<<< HEAD
 
-
-
-
-=======
->>>>>>> 53f49e4cf086f40aa9b8a8c0c79694c00f9a8acb
